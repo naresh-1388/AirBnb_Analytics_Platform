@@ -1,1 +1,3 @@
-select * from departments;
+select * from departments
+
+where department = 'IT';
